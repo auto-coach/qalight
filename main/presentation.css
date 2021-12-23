@@ -310,6 +310,20 @@ section p {
   margin-bottom: 10vh;
 }
 
+.section-11 {
+  position: relative;
+  background-color: white;
+}
+
+.section-11 .background {
+  margin: 5vh 5vw 5vh 5vw;
+  background-image: url("../images/qa_light_contacts.png");
+  background-size: cover;
+  background-position: center;
+  /* Center the image */
+  background-repeat: no-repeat;
+}
+
 @media only screen and (min-width: 768px) and (max-width: 1600px) {
   .section-3 h2.header,
   .section-7 h2.header {
